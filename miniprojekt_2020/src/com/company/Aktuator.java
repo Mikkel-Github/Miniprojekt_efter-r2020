@@ -13,6 +13,11 @@ public class Aktuator {
         this.aktuator.remove(aktuator);
     }
 
+    public void updateAktuator(int aktuatorToChange, String newAktuator) {
+        this.aktuator.remove(aktuatorToChange);
+        this.aktuator.add(aktuatorToChange, newAktuator);
+    }
+
     public ArrayList<String> getAktuator() {
         return aktuator;
     }
