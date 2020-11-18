@@ -13,8 +13,12 @@ public class Sensor {
         this.sensor.remove(sensor);
     }
 
+    public void updateSensor(int sensorToChange, String newSensor) {
+        this.sensor.remove(sensorToChange);
+        this.sensor.add(sensorToChange, newSensor);
+    }
+
     public ArrayList<String> getSensor() {
         return sensor;
     }
-
 }

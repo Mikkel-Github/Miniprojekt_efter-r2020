@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ab5c032-ed2b-4e25-b6dd-8b62c27af5ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Aktuator.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Aktuator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniprojekt_2020/src/com/company/Sensor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Miniprojekt_efter-r2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,9 +109,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1605692199640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605692199640" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1605692199640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605692199640" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1605692199639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605692199639" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1605692199640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605692199640" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605690572354">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605690572354" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605692013409">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1605692013409" />
   </component>
 </project>
